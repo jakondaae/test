@@ -1,0 +1,25 @@
+.Home_soon__8s2ww button {
+    font-family: "impact";
+    padding: 1rem 1.1875rem;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    border-radius: 3.125rem;
+    background: #0c0c0c none repeat scroll 0% 0%;
+    color: white;
+    border: medium none;
+    min-height: 4rem;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 500px;
+    text-decoration: none;
+    cursor: pointer;
+}
